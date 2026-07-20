@@ -21,7 +21,8 @@ int main(void){
     printf("]\n");
 
     printf("\n* Sorting Array using sequential sort...\n");
-
+    
+    // Sorting the elements in ascending order
     for (int i=0; i<length; i++){
         for (int j=i + 1; j < length; j++){
             if (array[i] > array[j]){
