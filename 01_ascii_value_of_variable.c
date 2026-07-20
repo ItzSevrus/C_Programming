@@ -1,4 +1,4 @@
-// Program to calculate ascii value of a variable
+// Program to find ascii value of a character
 // Author - Sahil Gour
 
 #include <stdio.h>
