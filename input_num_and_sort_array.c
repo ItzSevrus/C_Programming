@@ -1,21 +1,21 @@
-// Program to take 5 numbers as input and store them in an array and sort them with sequential sorting method.
+// Program to take 10 numbers as input and store them in an array and sort them with sequential sorting method.
 // Author -> Sahil Gour
 
 #include <stdio.h>
 
 int main(void){
-    int length = 5;
+    int length = 10;
     int array[length];
 
     printf("You need to enter %d Numbers...\n", length);
-    for (int i=0; i<5; i++){
+    for (int i=0; i<length; i++){
         printf("Enter Number %d >>> ", i+1);
         scanf("%d", &array[i]);
     }
 
     printf("\nArray : [");
     
-    for (int i=0; i<5; i++){
+    for (int i=0; i<length; i++){
         printf("%d,", array[i]);
     }
     printf("]\n");
