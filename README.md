@@ -40,25 +40,25 @@ A collection of C programming practicals and additional programs written while l
 
 | Executable |
 |------------|
-| `outputs/prac1` |
-| `outputs/prac2` |
-| `outputs/prac3` |
-| `outputs/prac4` |
-| `outputs/prac5` |
-| `outputs/prac6` |
-| `outputs/prac7` |
-| `outputs/prac8` |
-| `outputs/prac9` |
-| `outputs/prac10` |
+| [`outputs/prac1`](outputs/prac1) |
+| [`outputs/prac2`](outputs/prac2) |
+| [`outputs/prac3`](outputs/prac3)|
+| [`outputs/prac4`](outputs/prac4) |
+| [`outputs/prac5`](outputs/prac5) |
+| [`outputs/prac6`](outputs/prac6) |
+| [`outputs/prac7`](outputs/prac7) |
+| [`outputs/prac8`](outputs/prac8) |
+| [`outputs/prac9`](outputs/prac9) |
+| [`outputs/prac10`](outputs/prac10) |
 
 ### Additional Programs
 
 | Executable |
 |------------|
-| `outputs/ascii_num_to_char` |
-| `outputs/input_num_and_sort_array` |
-| `outputs/loops` |
-| `outputs/right_triangle` |
+| [`outputs/ascii_num_to_char`](outputs/ascii_num_to_char) |
+| [`outputs/input_num_and_sort_array`](outputs/input_num_and_sort_array) |
+| [`outputs/loops`](outputs/logs) |
+| [`outputs/right_triangle`](outputs/right_triangle) |
 
 ---
 
