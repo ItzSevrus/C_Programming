@@ -11,7 +11,7 @@ include_dir="include/"
 
 mkdir -p "$output_dir"
 
-command="gcc $1 libs/*.c -I$include_dir -o $output_dir/$output"
+command="gcc $1 libs/*.c -lm -I$include_dir -o $output_dir/$output"
 
 echo -e "  > Using Compile Command ->\n  $command"
 
