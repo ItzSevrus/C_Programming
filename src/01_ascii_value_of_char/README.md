@@ -7,17 +7,17 @@ This program helps us finding the ASCII(American Standard Code for Information I
 > You will find **Source Code** [here!](main.c)
 
 ## Compilation Instructions
-    ### Using gcc
-    1. use command to compile the [main.c](main.c)
-        ```bash
-        gcc main.c -o main
-        ```
-    2. Now an **executable** will be created, you can run it by
-        ```bash
-        ./main
-        ```
+### Using gcc    
+1. use command to compile the [main.c](main.c)
+    ```bash
+    gcc main.c -o main
+    ```
+2. Now an **executable** will be created, you can run it by
+    ```bash
+    ./main
+    ```
 
-## OUTPUT
+## Output
 ```bash
 sahil@aether {~/Workspace/C_Programming/src/01_ascii_value_of_char} ❯ ./main
 Enter a character >>> 5
@@ -36,3 +36,5 @@ Enter a character >>> \t
 ASCII Value of \ is 92
 
 ```
+
+<hr>
