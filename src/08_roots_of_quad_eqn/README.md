@@ -2,6 +2,8 @@
 
 A simple C program to find the **real roots** of a quadratic equation using the **Quadratic Formula**.
 
+> You will find **Source Code** [Here!](main.c)
+
 ## Formula
 
 A quadratic equation is written as:
@@ -167,6 +169,21 @@ Roots are 0.50 and -3.00
 
 ---
 
+## Compilation Instructions
+### Using GCC Compiler
+1. Use the command below to compile the program.
+```bash
+gcc -lm main.c -o main
+```
+- Using **-lm** because we are telling compiler that we are using **math** library. Without it program **will not** compile!
+
+2. Now run the program by using :-
+```bash
+./main
+```
+
+---
+
 ## Example Run
 
 ### Input
@@ -211,7 +228,3 @@ Only a few variables are used, so the memory usage remains constant.
 - The coefficient `a` should not be zero, otherwise the equation is no longer quadratic.
 
 ---
-
-## Author
-
-**Sahil Gour**
